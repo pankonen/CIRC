@@ -29,18 +29,22 @@ These instructions were generated for HamClock Installation on Raspberry Pi Zero
 
 ## Update the System
 - Run the following commands:
-  ```sudo apt-get update
+  ```
+  sudo apt-get update
   sudo apt-get upgrade -y
+  ```
 
 ## Install HamClock
 Follow the official installation instructions from HamClock’s website.
 - Open a terminal on the Raspberry Pi desktop GUI:
   - Click on Raspberry → Accessories → Terminal.
 - Download and run the installer:
-  ```cd
+  ```
+  cd
   curl -O https://www.clearskyinstitute.com/ham/HamClock/install-hc-rpi
   chmod u+x install-hc-rpi
   ./install-hc-rpi
+  ```
 - Answer installation prompts:
   - Web access only (no hardware display)? → y
   - Select HamClock size:
@@ -55,14 +59,18 @@ Follow the official installation instructions from HamClock’s website.
 - Build process takes ~8 minutes.
 
 Reboot the system:
+```
 sudo reboot now
+```
 
 4. Access HamClock
-1. On another machine, open a web browser and go to:
+- On another machine, open a web browser and go to:
 http://[ip-address-or-hostname]:8081/live.html
+
 Example:
 http://hamclock:8081/live.html
-2. The HamClock configuration page will open.
+
+- The HamClock configuration page will open.
 Enter Callsign and Location info.
 Use LatLong.net to find coordinates (e.g., 40.477, -88.993).
 
