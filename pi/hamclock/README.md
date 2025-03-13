@@ -1,16 +1,47 @@
 # HamClock
 
-## 	HamClock is a kiosk-style application that provides real time space weather, radio propagation models, operating events and other information particularly useful to the radio amateur. HamClock was introduced in my October 2017 QST article and continues to be maintained and expanded.
+### [HamClock](https://www.clearskyinstitute.com/ham/HamClock/) is a kiosk-style application that provides real time space weather, radio propagation models, operating events and other information particularly useful to the radio amateur. HamClock was introduced in my October 2017 QST article and continues to be maintained and expanded.
 
 
-These instructions were generated for HamClock Installation on Raspberry Pi Zero 2 W. that said, this would likely work on other versions of the Pi but has not been tested to ensure the process is the same.
+### These instructions were generated for HamClock Installation on Raspberry Pi Zero 2 W. that said, this would likely work on other versions of the Pi but has not been tested to ensure the process is the same.
 
 # Prepare the Raspberry Pi OS
 ## Burn the SD card with Raspberry Pi OS using the Raspberry Pi Imager:
+
+### Before getting started, You'll need to have some tools on your machine.
+
+- You'll need to download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) for the operating system your running.
+- You'll need the ability to telnet / ssh into the raspberry pi for this instalation:
+  - If you have a Mac you have a telnet client built in. 
+  - If you have a PC then you'll need to download something like [Putty](https://www.putty.org/)
+
+## Let's get the operating system installed:
+- Open the Pi imager:
+
+![Raspberry Pi Imager](images/pi_imager.png "Raspberry Pi Imager")
+
   - Device: Select Raspberry Pi Zero 2 W.
-    - OS: Choose Raspberry Pi OS (64-bit).
+  ![Raspberry Pi Device](images/pi_device.png "Raspberry Pi Device")
+    
+    - Choose Operating System
+    
+    ![Raspberry Pi Operating System](images/pi_operating_system.png "Raspberry Pi Operating System")
+    
+    - OS: Choose Raspberry Pi OS (32-bit), Choose Raspberry Pi OS Lite (32 bit)
+    ![Raspberry Pi Operating System](images/pi_os_lite.png "Raspberry Pi Operating System")
+    
     - Storage: Select the SD card and click Next
+    
+    Let's click on next and set the advanced settings. To do so click on edit settings:
+
+    ![Raspberry Pi Imager Settings](images/pi_edit_settings.png "Raspberry Pi Imager Settings")
+
     - Customization:
+
+
+    Now lets get the settings configured to allow your Pi to connect to your wifi and some other details:
+
+      ![Raspberry Pi Imager Settings](images/pi_settings.png "Raspberry Pi Imager Settings")
         - General Tab:
           - Set hostname (e.g., hamclock).
           - Configure OS username and password.
