@@ -52,17 +52,19 @@
 
     Now lets get the settings configured to allow your Pi to connect to your wifi and some other details:
 
-![Raspberry Pi Imager Settings](images/pi_settings.png "Raspberry Pi Imager Settings")
-        - General Tab:
-          - Set hostname to your liking (e.g., hamclock).
-          - Configure OS username and password. I'd leave the username as pi but create a new password of your liking.
-          - Set WiFi SSID and password for your network.
-          - Set locale settings to US, Chicago.
-        - Services Tab:
+ - General Tab:
+    - Set hostname to your liking (e.g., hamclock).
+    - Configure OS username and password. I'd leave the username as pi but create a new password of your liking.
+    - Set WiFi SSID and password for your network.
+    - Set locale settings to US, Chicago.
+    
+    - Services Tab:
           - Enable SSH and use password authentication.
         - Options Tab: Leave as default.
     - Save and confirm Apply OS customizations.
     - Burn the image to the SD card.
+
+![Raspberry Pi Imager Settings](images/pi_settings.png "Raspberry Pi Imager Settings")
  
  - Insert the SD card into the Raspberry Pi and boot it up
  - Connect via SSH:
