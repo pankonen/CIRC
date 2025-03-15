@@ -79,8 +79,9 @@
     ```
     ssh username@hamclock.local
     ```
+ - When connecting to a host for the first time with SSH it will ask you to confirm some items. Choose yes by typing yes
 
-    
+![Terminal](images/terminal.png "Terminal")
 
 ## Update the System
 - Run the following commands:
