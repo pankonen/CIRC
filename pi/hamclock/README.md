@@ -115,7 +115,7 @@ Follow the official installation instructions from HamClock’s website.
     4. 3200x1920
 
 - Choose Option 3 (2400x1440)
-- Auto-start on reboot? → y
+- start HamClock automatically each time Pi is booted? [y/n] - type y
   - (This adds a crontab entry.)
 - Build process takes ~8 minutes.
 
