@@ -66,7 +66,7 @@
 
 ![Raspberry Pi Imager Settings](images/pi_settings.png "Raspberry Pi Imager Settings")
  
- - Insert the SD card into the Raspberry Pi and plug into a power source. The initial bootup takes a little longer so be patient.
+ - Insert the SD card into the Raspberry Pi and plug into a power source. The initial bootup takes a little longer so be patient. Please note, the SD card only goes one way so don't force it or you can break things.
  - Connect via SSH:
     - Use the hostname (hamclock.local) or the assigned IP address.
     - Example: ssh username@hamclock.local
