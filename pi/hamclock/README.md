@@ -33,7 +33,8 @@
 
 ![Raspberry Pi Operating System](images/pi_os_lite.png "Raspberry Pi Operating System")
     
-    -You'll need to insert the SD card in your laptop. Storage: Select the SD card and click Next. Note, what you have may look slightly different. 
+    - You'll need to insert the SD card in your laptop. 
+    - Storage: Select the SD card and click Next. Note, what you have may look slightly different. 
     
 ![Raspberry Pi Imager Storage](images/pi_storage_selection.png "Raspberry Pi Imager Storage")
 
