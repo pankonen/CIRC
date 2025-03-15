@@ -43,7 +43,7 @@
 ![Raspberry Pi Imager - completed Settings](images/pi_imager_completed.png "Raspberry Pi Imager - completed Settings")
 
     - Click on next
-    - To set the advanced settings. To do so click on edit settings:
+    - To set the advanced settings, click on edit settings:
 
 ![Raspberry Pi Imager Settings](images/pi_edit_settings.png "Raspberry Pi Imager Settings")
 
