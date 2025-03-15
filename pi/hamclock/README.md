@@ -12,7 +12,7 @@
 ### Before getting started, You'll need to have some tools on your machine.
 
 - You'll need to download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) for the operating system your running.
-- You'll need the ability to telnet / ssh into the raspberry pi for this instalation. This allows you to interact with the Raspberry PI from your workstation:
+- You'll need the ability to telnet / ssh into the raspberry pi for this installation. This allows you to interact with the Raspberry PI from your workstation:
   - If you have a Mac you have a telnet client built in. (Go > Applications > Utilities > Terminal)
   - If you have a PC then you'll need to download something like [Putty](https://www.putty.org/)
 
