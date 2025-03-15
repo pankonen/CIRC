@@ -58,8 +58,8 @@
     - Set WiFi SSID and password for your network.
     - Set locale settings to US, Chicago.
     
-    - Services Tab:
-          - Enable SSH and use password authentication.
+- Services Tab:
+    - Enable SSH and use password authentication.
         - Options Tab: Leave as default.
     - Save and confirm Apply OS customizations.
     - Burn the image to the SD card.
