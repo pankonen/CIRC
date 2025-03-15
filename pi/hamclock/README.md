@@ -54,9 +54,9 @@
 
 ![Raspberry Pi Imager Settings](images/pi_settings.png "Raspberry Pi Imager Settings")
         - General Tab:
-          - Set hostname (e.g., hamclock).
-          - Configure OS username and password.
-          - Set WiFi SSID and password.
+          - Set hostname to your liking (e.g., hamclock).
+          - Configure OS username and password. I'd leave the username as pi but create a new password of your liking.
+          - Set WiFi SSID and password for your network.
           - Set locale settings to US, Chicago.
         - Services Tab:
           - Enable SSH and use password authentication.
