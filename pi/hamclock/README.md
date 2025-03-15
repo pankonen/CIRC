@@ -91,9 +91,8 @@
 
 ## Install HamClock
 Follow the official installation instructions from HamClock’s website.
-- Open a terminal on the Raspberry Pi desktop GUI:
-  - Click on Raspberry → Accessories → Terminal.
-- Download and run the installer:
+
+- Download and run the installer from your terminal (ssh):
   ```
   cd
   curl -O https://www.clearskyinstitute.com/ham/HamClock/install-hc-rpi
