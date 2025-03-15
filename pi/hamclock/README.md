@@ -5,6 +5,13 @@
 
 ### These instructions were generated for HamClock Installation on Raspberry Pi Zero 2 W. that said, this would likely work on other versions of the Pi but has not been tested to ensure the process is the same.
 
+### To do this build you'll need the following:
+- Raspberry Pi Zero 2W
+- Power supply that can provide at least 2 amps
+- Micro USB cable for power
+- Micro SD card
+- Some way to write the micro SD card
+
 # Prepare the Raspberry Pi
 
 ## Let's load the micro SD card with Raspberry Pi Operating System using the Raspberry Pi Imager:
