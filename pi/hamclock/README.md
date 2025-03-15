@@ -109,10 +109,10 @@ Follow the official installation instructions from HamClock’s website.
 - Answer installation prompts:
   - Web access only (no hardware display)? → y
   - Select HamClock size:
-    1) 800x480
-    2) 1600x960
-    3) 2400x1440
-    4) 3200x1920
+    1. 800x480
+    2. 1600x960
+    3. 2400x1440
+    4. 3200x1920
 
 - Choose Option 3 (2400x1440)
 - Auto-start on reboot? → y
