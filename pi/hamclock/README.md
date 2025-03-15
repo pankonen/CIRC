@@ -69,11 +69,18 @@
  - Insert the SD card into the Raspberry Pi and plug into a power source. The initial bootup takes a little longer so be patient. You'll notice the green power light will flash a bit. When it settles down you should be good to go. Please note, the SD card only goes one way so don't force it or you can break things.
 
  - Now its time to open your telnet client
+
+   - You'll need the ability to telnet / ssh into the raspberry pi for this installation. This allows you to interact with the Raspberry PI from your workstation:
+   - If you have a Mac you have a telnet client built in. (Go > Applications > Utilities > Terminal)
+   - If you have a PC then you'll need to download something like [Putty](https://www.putty.org/)
+
  - Connect via SSH:
     - Use the hostname (hamclock.local) or the assigned IP address.
     - Example: 
        ``` 
        ssh username@hamclock.local
+
+    
 
 ## Update the System
 - Run the following commands:
