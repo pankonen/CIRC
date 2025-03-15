@@ -60,7 +60,6 @@
     
 - Services Tab:
     - Enable SSH and use password authentication.
-        - Options Tab: Leave as default.
     - Save and confirm Apply OS customizations.
     - Burn the image to the SD card.
 
