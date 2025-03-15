@@ -5,14 +5,15 @@
 
 ### These instructions were generated for HamClock Installation on Raspberry Pi Zero 2 W. that said, this would likely work on other versions of the Pi but has not been tested to ensure the process is the same.
 
-# Prepare the Raspberry Pi OS
-## Burn the SD card with Raspberry Pi OS using the Raspberry Pi Imager:
+# Prepare the Raspberry Pi
+
+## Burn the micro SD card with Raspberry Pi Operating System using the Raspberry Pi Imager:
 
 ### Before getting started, You'll need to have some tools on your machine.
 
 - You'll need to download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) for the operating system your running.
-- You'll need the ability to telnet / ssh into the raspberry pi for this instalation:
-  - If you have a Mac you have a telnet client built in. 
+- You'll need the ability to telnet / ssh into the raspberry pi for this instalation. This allows you to interact with the Raspberry PI from your workstation:
+  - If you have a Mac you have a telnet client built in. (Go > Applications > Utilities > Terminal)
   - If you have a PC then you'll need to download something like [Putty](https://www.putty.org/)
 
 ## Let's get the operating system installed:
