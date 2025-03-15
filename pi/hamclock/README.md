@@ -52,7 +52,7 @@
 
     Now lets get the settings configured to allow your Pi to connect to your wifi and some other details:
 
-      ![Raspberry Pi Imager Settings](images/pi_settings.png "Raspberry Pi Imager Settings")
+![Raspberry Pi Imager Settings](images/pi_settings.png "Raspberry Pi Imager Settings")
         - General Tab:
           - Set hostname (e.g., hamclock).
           - Configure OS username and password.
