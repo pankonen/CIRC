@@ -25,7 +25,7 @@
 
   ![Raspberry Pi Device](images/pi_device.png "Raspberry Pi Device")
     
-    - Choose Operating System:
+    - Choose Operating System Raspberry Pi OS (other):
     
 ![Raspberry Pi Operating System](images/pi_operating_system.png "Raspberry Pi Operating System")
     
