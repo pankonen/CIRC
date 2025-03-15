@@ -7,7 +7,7 @@
 
 # Prepare the Raspberry Pi
 
-## Burn the micro SD card with Raspberry Pi Operating System using the Raspberry Pi Imager:
+## Let's load the micro SD card with Raspberry Pi Operating System using the Raspberry Pi Imager:
 
 ### Before getting started, You'll need to have some tools on your machine.
 
