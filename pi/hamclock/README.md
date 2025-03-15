@@ -22,20 +22,24 @@
 ![Raspberry Pi Imager](images/pi_imager.png "Raspberry Pi Imager")
 
   - Device: Select Raspberry Pi Zero 2 W.
+
   ![Raspberry Pi Device](images/pi_device.png "Raspberry Pi Device")
     
-    - Choose Operating System
+    - Choose Operating System:
     
-    ![Raspberry Pi Operating System](images/pi_operating_system.png "Raspberry Pi Operating System")
+![Raspberry Pi Operating System](images/pi_operating_system.png "Raspberry Pi Operating System")
     
     - OS: Choose Raspberry Pi OS (32-bit), Choose Raspberry Pi OS Lite (32 bit)
-    ![Raspberry Pi Operating System](images/pi_os_lite.png "Raspberry Pi Operating System")
+
+![Raspberry Pi Operating System](images/pi_os_lite.png "Raspberry Pi Operating System")
     
-    - Storage: Select the SD card and click Next
+    - Storage: Select the SD card and click Next. Note, what you have may look slightly different. You'll need to insert the SD card in your laptop in order for it to be choosen.
     
+![Raspberry Pi Imager Storage](images/pi_storage_selection.png "Raspberry Pi Imager Storage")
+
     Let's click on next and set the advanced settings. To do so click on edit settings:
 
-    ![Raspberry Pi Imager Settings](images/pi_edit_settings.png "Raspberry Pi Imager Settings")
+![Raspberry Pi Imager Settings](images/pi_edit_settings.png "Raspberry Pi Imager Settings")
 
     - Customization:
 
