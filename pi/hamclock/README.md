@@ -134,7 +134,6 @@ http://hamclock:8081/live.html
 - The HamClock configuration page will open.
 Enter Callsign and Location info.
 Use LatLong.net to find coordinates (e.g., 40.477, -88.993).
-![Ham Clock Configuration Screen](images/hamclockconfig.png "Ham Clock Configuration Screen")
+![Configuration](images/hamclockconfig.png "Configuration")
 
 🎉 That’s it! HamClock is now installed and accessible on your Raspberry Pi!
-
